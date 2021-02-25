@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Extended",
+        "repositoryURL": "https://github.com/rahimkhalid/Extended.git",
+        "state": {
+          "branch": null,
+          "revision": "1d1b17430787d9d683d03e824a5a721d8e790f36",
+          "version": "1.0.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
