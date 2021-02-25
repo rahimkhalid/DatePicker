@@ -4,6 +4,7 @@
 import PackageDescription
 
 let package = Package(
+    defaultLocalization: "en"
     name: "DatePicker",
     platforms: [
         .iOS(.v10),
